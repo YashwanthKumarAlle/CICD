@@ -36,6 +36,7 @@
 <password>Yash@7989</password>
 <environment>Sandbox</environment>
 <muleVersion>4.7.0</muleVersion>
+<region>us-east-1</region>
 <workers>1</workers>
 <workerType>Micro</workerType>
 <applicationName>cicddemo</applicationName>
